@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-744-sidebar-collapse",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-744-sidebar-collapse": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-744-sidebar-collapse",
+    "origin"
+  ]
+}
